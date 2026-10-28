@@ -18,3 +18,21 @@ My first GitHub project.
 
 \- Create a pull request
 
+
+
+
+
+\## Learning Progress
+
+
+
+\- Created a GitHub repository
+
+\- Connected a local repository
+
+\- Pushed my first commit
+
+\- Cloned the repository
+
+\- Created a feature branch
+
